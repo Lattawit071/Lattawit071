@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lattawit116
-- 👀 I’m interested in video game
-   หวัดดีงับ
+- 👋 Hi, I'm Lattawit U can call me shev
+- I study at King Mongkut's University of Technology Thonburi(KMUTT)
+- 
 
 <!---
 Lattawit116/Lattawit116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
